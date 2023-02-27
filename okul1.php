@@ -1,7 +1,7 @@
 <?php
     $sunucu_adi = "localhost";
     $kullanici_adi = "root";
-    $sifre = "AdminOstator";
+    $sifre = "#sifre";
     $veri_tabani = "kutuphane";
     
     $baglanti = new mysqli($sunucu_adi, $kullanici_adi, $sifre, $veri_tabani, 3306);
@@ -1373,6 +1373,6 @@ if (secilenID.style.display == "none") {
 
 <center>
     <div style="background-color: darkgrey; font-size: 18px; color: darkcyan; border-radius: 0; box-shadow: 2px 5px 3px limegreen; font-color: white;" class="card p 9 " id="footer" align="center">
-        <p>2023. ANF e-Kütüphane Sistemi. ©Tüm hakları saklıdır. Created by <a href="#" rel="nofollow">Cesur Huseynzade</a>.</p>
+        <p>2023. Okul Adı e-Kütüphane Sistemi. ©Tüm hakları saklıdır. Created by <a href="https://github.com/cesurh" rel="nofollow">Cesur Huseynzade</a>.</p>
     </div></center>
     </html>
