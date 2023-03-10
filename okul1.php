@@ -434,7 +434,7 @@ nav ul li a {
 
 /* Hero stilleri */
 .hero {
-  background-image: url('https://anfanadolulisesi.meb.k12.tr/meb_iys_dosyalar/34/37/749595/resimler/2022_02/k_10135501_WhatsApp-Image-2022-02-10-at-12.11.48-1.jpg');
+  background-image: url('//okul kütüphane fotoğrafı bağlantısı');
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -502,7 +502,7 @@ nav ul li a {
   <body>
 <center>
     <header>
-    <img src="https://cdn.discordapp.com/attachments/958061884404297770/1078018688608907325/1677090076734.jpg" class="send" id="logo" alt="Logo" style="width: 13%; height: 75px;" />
+    <img src="//okul logo" class="send" id="logo" alt="Logo" style="width: 13%; height: 75px;" />
       <nav>
         <ul>
         <div class="btn-group" style="border-radius: 10px;" name="grup"  role="group" aria-label="Basic outlined example">
@@ -515,7 +515,7 @@ nav ul li a {
     <section class="hero">
       <h2>Abidin Nesimi Fatinoğlu Anadolu Lisesi</h2>
       <p>Yeni Kütüphane Sistemiyle Kullanıcı Dostu Arayüz!!.</p>
-      <a href="https://anfanadolulisesi.meb.k12.tr/tema/index.php" class="button" id="explore" style="color: #fff;">Keşfet</a>
+      <a href="//okul sitesi" class="button" id="explore" style="color: #fff;">Keşfet</a>
     </section>
   
    
@@ -527,7 +527,7 @@ nav ul li a {
 <div class="container">
 <div class="row">
     <div class="col-md-12 text-center" id="image-section" >
-      <img src="https://cdn.discordapp.com/attachments/958061884404297770/1078018688608907325/1677090076734.jpg" alt="Resim Açıklaması" id="foto" style="width: 500px; heigth: 1500;">
+      <img src="//okul logosu" alt="Resim Açıklaması" id="foto" style="width: 500px; heigth: 1500;">
     </div>
   </div>
   </div>
